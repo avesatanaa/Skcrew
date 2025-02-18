@@ -1,0 +1,35 @@
+bitwise:
+  enabled: true
+files:
+  enabled: true
+floodgate:
+  enabled: true
+gui:
+  enabled: true
+interpretate:
+  enabled: true
+maps:
+  enabled: true
+other:
+  enabled: true
+packets:
+  enabled: true
+permissions:
+  enabled: true
+requests:
+  enabled: true
+runtime:
+  enabled: true
+sockets:
+  enabled: false
+  server-address: "127.0.0.1"
+  server-port: 1337
+  client-autoreconnect-time: 5
+sql:
+  enabled: true
+string-utils:
+  enabled: true
+viaversion:
+  enabled: true
+world:
+  enabled: true

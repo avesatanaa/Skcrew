@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SkCrew:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="SkCrew.jar">
+      <element id="module-output" name="SkCrew" />
+      <element id="library" level="project" name="Maven: com.google.errorprone:error_prone_annotations:2.28.0" />
+    </root>
+  </artifact>
+</component>
